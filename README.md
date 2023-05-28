@@ -1,4 +1,7 @@
-# AI_Summarizer
+
+# AI_Summarizer![1]
+(https://github.com/Rohan-Falwariya/Article_Summarizer/assets/113237755/9514b614-08b7-4a19-9c52-764bc0594aac)
+
 OpenAI API-based Article Summarizer
 
 Description: 
