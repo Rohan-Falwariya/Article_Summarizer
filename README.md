@@ -1,4 +1,6 @@
-
+![1](https://github.com/Rohan-Falwariya/Article_Summarizer/assets/113237755/6683df04-f480-44b7-a550-d4852eb2ecfe)
+![2](https://github.com/Rohan-Falwariya/Article_Summarizer/assets/113237755/ab776220-a67a-489a-b0b0-741cd3c6a529)
+![3](https://github.com/Rohan-Falwariya/Article_Summarizer/assets/113237755/cd6362dd-6688-4a9a-a2b7-4109938ac99f)
 # AI_Summarizer![1]
 
 
